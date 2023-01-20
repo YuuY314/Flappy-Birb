@@ -11,6 +11,9 @@ Link para baixar: <https://gamejolt.com/games/flappybirb/780867>
 ## Créditos
 
 Vídeo original: <https://www.youtube.com/watch?v=XtQMytORBmM>
+
 Repositório do projeto original: <https://github.com/Britishgaming/GMTK-Unity-Tutorial>
+
 Todos os desenhos foram retirados através do link na descrição do vídeo: <https://www.dropbox.com/sh/h5vez7ltgbmfnib/AADSCiI2dEKptcR7ydv8xR2Ba?dl=0>
+
 Música: <https://www.youtube.com/watch?v=cbKambtOHJQ&t=60s>
